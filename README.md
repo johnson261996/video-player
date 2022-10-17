@@ -2,15 +2,31 @@
 
 This is a simple video player which user can play videos and can play the videos from pre defined templates.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Directory Structure
 
-A few resources to get you started if this is your first Flutter project:
+```
+lib
+│
+└───models
+ |    |──video.dart  
+ └───screens
+ |    |──landscape_screen.dart
+ |    |──video_player_from_file.dart
+ |   
+ |    
+ └───util
+ |     |──size_config.dart  
+ │───main.dart
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##  Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ video Page                       |   video from file Page           |    landscape Screen        |    
+:---------------------------------:|:-------------------------:|
+ <div float="left">
+    <img src="https://imgur.com/jQ3JBd9.png" alt="video Screen" width="110"/>
+    <img src="https://imgur.com/REoL74f.png" alt="video from file Screen" width="110"/>
+    <img src="https://imgur.com/9mHbqSS.png" alt="landscape Screen" width="110"/>
+
+  </div>
