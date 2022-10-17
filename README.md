@@ -22,11 +22,11 @@ lib
 
 ##  Screenshots
 
- video Page                       |   video from file Page           |    landscape Screen        |    
+ video Page                       |   video from file Page           |       
 :---------------------------------:|:-------------------------:|
  <div float="left">
     <img src="https://imgur.com/jQ3JBd9.png" alt="video Screen" width="110"/>
     <img src="https://imgur.com/REoL74f.png" alt="video from file Screen" width="110"/>
-    <img src="https://imgur.com/9mHbqSS.png" alt="landscape Screen" width="110"/>
+    <img src="https://imgur.com/r4RaPDA.png" alt="landscape Screen" width="110"/>
 
   </div>
